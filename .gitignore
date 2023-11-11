@@ -48,3 +48,4 @@ Examples/ObjectOrientedDesign/ExploreMaze.jar
 DataFiles/*
 Soln1.txt
 *.jar
+*.iml
